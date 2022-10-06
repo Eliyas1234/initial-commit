@@ -1,0 +1,32 @@
+p {color: aqua;}
+
+table {
+    width: 50%;
+    height: 100%;
+    border-spacing: 0ch;
+}
+tr {
+    text-align: left;
+}
+
+table,tr,th {
+    border: 1px solid black;
+}
+img .one {
+    position: relative;
+    border-image: round;
+    width: 300px;
+    height: 300px;
+    object-position: center;
+}
+img .two {
+    width: 200px;
+    height: 200px;
+}
+ul li {
+    color: blueviolet;
+    font-size: larger;
+    position: relative;
+}
+
+
